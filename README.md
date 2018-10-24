@@ -1,4 +1,6 @@
 ## Welcome to My Pages
+title:Welcome to y0's homepage!
+description:Feel free to bookmark this to keep an eye on my project updates!
 
 You can use the [editor on GitHub](https://github.com/y0-wangkx/sheep001/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
